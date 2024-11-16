@@ -1,3 +1,5 @@
+manual
+
 setup: install build
 
 install:
